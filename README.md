@@ -1,4 +1,4 @@
-test-repo
-=========
+Repo Zeppelin
+=============
 
-Test repo for Coursera course
+Repo for zeppelin-web interpreter
